@@ -1,6 +1,6 @@
-Hi I'm Esther Muriu, a student in Kabarak University,Kenya studying Bachelor of science in Computer security and forensics.
-I' have currently ventured into  Ethical hacking and penetration testing which i'm learning and practicing curiously looking forward to becoming an expert in the field.
-I'm looking to collaborate on security based projects and incorporate my knowledge and ideas in creating a cybercrime free world despite the risks involved.
+Hi I'm Esther, A junior Cybersecurity analyst.
+Currently ventured into  Ethical hacking and penetration testing which i'm learning and practicing curiously looking forward to becoming an expert in the field.
+I'm looking to collaborate on security based projects and incorporate my knowledge and ideas in enhancing cybersecurity.
 
 #Cyber security enthusiast.
 
